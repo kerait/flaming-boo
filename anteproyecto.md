@@ -10,11 +10,11 @@
 La necesidad de este proyecto surge en el momento en el que se desea ofrecer un servicio de consultoría con la menor intervención humana posible a fin de reducir costes para el cliente.
 Los parámetros para los que se podría optimizar son:
 
-	* Mejorar el eCommerce
-	* Aumentar la calidad de los "Leads"
-	* Reducir el coste efectivo de las ventas
-	* Aumentar la tasa de clic (CTR)
-	* Elegir las mejores "keywords"
+* Mejorar el eCommerce
+* Aumentar la calidad de los "Leads"
+* Reducir el coste efectivo de las ventas
+* Aumentar la tasa de clic (CTR)
+* Elegir las mejores "keywords"
 
 **3. Herramientas a utilizar en el desarrollo.** Para desarrollar este proyecto se utilizarán distintas herramientas, detalladas a continuación:
 
