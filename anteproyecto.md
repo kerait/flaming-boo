@@ -1,6 +1,6 @@
 #		Anteproyecto Fin de Carrera
 
-**Título**: Automatismo para recopilación de datos desde las APIs de *Google AdWords* y *Google Analytics* para la generación de informes.
+###**Título**: Automatismo para recopilación de datos desde las APIs de *Google AdWords* y *Google Analytics* para la generación de informes.
 
 **Nombre**: Héctor Manuel Sosa Fructuoso.
 
@@ -14,7 +14,7 @@ Los parámetros para los que se podría optimizar son:
 * Aumentar la calidad de los "Leads"
 * Reducir el coste efectivo de las ventas
 * Aumentar la tasa de clic (CTR)
-* Elegir las mejores "keywords"
+* Elegir las mejores "Keywords"
 
 **3. Herramientas a utilizar en el desarrollo.** Para desarrollar este proyecto se utilizarán distintas herramientas, detalladas a continuación:
 
@@ -27,13 +27,14 @@ Los parámetros para los que se podría optimizar son:
 
 **4. Métodos y fases.** 
 
+
+
 **5. Bibliografía y referencias.**
 	
 * [Markdown Basics](https://help.github.com/articles/markdown-basics/) Para la escritura con Markdown sobre sublime. También compatible con las páginas públicas de GitHub.
 * Guías sobre las APIs
 	- [Introducción al AdWords API](http://programa-con-google.blogspot.com.es/2011/03/introduccion-al-adwords-api-para.html)
 	- [Visión general de la AdWords API. Por Google](https://developers.google.com/adwords/api/docs/?hl=es)
-	- [Analitycs for developers. Por Google](https://developers.google.com/analytics/?hl=es)
+	- [Analytics for developers. Por Google](https://developers.google.com/analytics/?hl=es)
 	- [Ayuda de las API de Analytics. Por Google](https://support.google.com/analytics/answer/1008004?hl=es)
-	* [6 Trucos para Optimizar AdWords](http://www.seocom.es/blog/6-trucos-adwords) Para aprender sobre el tema.
-	* 
+* [6 Trucos para Optimizar AdWords](http://www.seocom.es/blog/6-trucos-adwords) Para aprender sobre el tema.
