@@ -4,7 +4,8 @@
 
 **Nombre**: Héctor Manuel Sosa Fructuoso.
 
-**1. Introducción.** Actualmente, para que una campaña tenga éxito en Internet, y sea rentable, debe además contar con el coste de una persona experimentada que adapte pujas, PPC, Keywords, CTR, sin perder de vista el objetivo. Ésto implica que las campañas pequeñas, ya sean de empresas pequeñas, o de empresas de tamaño medio con un negocio por Internet pequeño o inexistente, apenas pueden optar a la eficiencia, ya que deben optar por utilizar servicios externos de consultoría (caros y de baja calidad en muchos casos) o control por parte de personal no experto, dejando la efectividad prácticamente al azar, de tal forma que no se puede prever el efecto que tengan procesos futuros.
+**1. Introducción.** Actualmente, para que una campaña tenga éxito en Internet, y sea rentable, debe además contar con el coste de una persona experimentada que adapte pujas, PPC, Keywords, CTR, sin perder de vista el objetivo. 
+Ésto implica que las campañas pequeñas, ya sean de empresas pequeñas, o de empresas de tamaño medio con un negocio por Internet pequeño o inexistente, apenas pueden optar a la eficiencia, ya que deben optar por utilizar servicios externos de consultoría (caros y de baja calidad en muchos casos) o control por parte de personal no experto, dejando la efectividad prácticamente al azar, de tal forma que no se puede prever el efecto que tengan procesos futuros.
 
 **2. Objetivo.** Este proyecto tiene como objetivo la creación de un automatismo que recopile los datos de las herramientas de Google para marketing con el fin de elaborar un informe con recomendaciones para mejorar la eficiencia de las campañas, y en un futuro aplicar las mejoras directamente sin interacción del usuario.
 La necesidad de este proyecto surge en el momento en el que se desea ofrecer un servicio de consultoría con la menor intervención humana posible a fin de reducir costes para el cliente.
