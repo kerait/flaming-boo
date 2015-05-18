@@ -25,8 +25,7 @@ Los parámetros para los que se podría optimizar son:
 * VirtualBox. Para la emulación del servidor que correrá la aplicación.
 * Debian 8.0 como SO para la máquina virtual.
 
-**4. Métodos y fases.** 
-
+**4. Métodos y fases.** [Describir métodos y fases]
 
 
 **5. Bibliografía y referencias.**
@@ -38,3 +37,4 @@ Los parámetros para los que se podría optimizar son:
 	- [Analytics for developers. Por Google](https://developers.google.com/analytics/?hl=es)
 	- [Ayuda de las API de Analytics. Por Google](https://support.google.com/analytics/answer/1008004?hl=es)
 * [6 Trucos para Optimizar AdWords](http://www.seocom.es/blog/6-trucos-adwords) Para aprender sobre el tema.
+ 
