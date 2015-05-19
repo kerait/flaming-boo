@@ -6,6 +6,7 @@
 **Nombre**: Héctor Manuel Sosa Fructuoso.
 
 **Director:** Francisco López Valverde.
+
 **Departamento:** Lenguajes y Ciencias de la Computación.
 
 **1. Introducción.** Actualmente, para que una campaña tenga éxito en Internet, y sea rentable, debe además contar con el coste de una persona experimentada que adapte pujas, PPC, Keywords, CTR, sin perder de vista el objetivo. 
@@ -31,23 +32,10 @@ Los objetivos concretos a alcanzar con el desarrollo de este proyecto son:
 * VirtualBox. Para la emulación del servidor que correrá la aplicación.
 * Debian 8.0 como SO para la máquina virtual.
 
-**4. Métodos y fases.** El proyecto se va a dividir en cinco fases:
-1. Adquisición de información. Se estudiarán por un lado las APIs de AdWords y Analytics para conocer de antemano las posibilidades que ofrecen, y por otro las utilidades de las herramientas de cara evaluar las necesidades de la aplicación.
-
-2. Definición de la estructura de datos. Qué datos y cómo se van a almacenar.
-
-3. Diseño de la aplicación.
-	* Fase de adquisición de datos.
-	* Fase de interacción con el exterior.
-
-4. Pruebas y resolución de errores. Se configurará la aplicación para obtener datos de una cuenta real. 
-
-5. Diseño de la interfaz de usuario. Se creará un interfaz de usuario por si se desea utilizar la aplicación de forma independiente.
-
-El proyecto se va a dividir en 3 fases: Análisis, Diseño e Implementación
+**4. Métodos y fases.** El proyecto se va a dividir en 3 fases: Análisis, Diseño e Implementación
 
 1. Análisis. Adquisición de información. Se estudiarán por un lado las APIs de AdWords y Analytics para conocer de antemano las posibilidades que ofrecen, y por otro las utilidades de las herramientas de cara evaluar las necesidades de la aplicación.
-2. Diseño. Se diseñará la aplicación siguiendo el patrón Modelo-Vista-Controlador.
+2. Diseño. Se diseñará la aplicación siguiendo el patrón Modelo-Vista-Controlador y se elaborarán diagramas descriptivos del funcionamiento.
 3. Implementación. Se atacará de forma modular para maximizar la reutilización de código. 
 
 **5. Bibliografía y referencias.**
