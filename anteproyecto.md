@@ -1,21 +1,26 @@
 #		Anteproyecto Fin de Carrera
 
 ###**Título**: Automatismo para recopilación de datos desde las APIs de *Google AdWords* y *Google Analytics* para la generación de informes.
+###**Title**: Middleware that gets data from *Google AdWords* and *Google Analytics* APIs to create reports.
 
 **Nombre**: Héctor Manuel Sosa Fructuoso.
 
+**Director:** Francisco López Valverde.
+**Departamento:** Lenguajes y Ciencias de la Computación.
+
 **1. Introducción.** Actualmente, para que una campaña tenga éxito en Internet, y sea rentable, debe además contar con el coste de una persona experimentada que adapte pujas, PPC, Keywords, CTR, sin perder de vista el objetivo. 
-Ésto implica que las campañas pequeñas, ya sean de empresas pequeñas, o de empresas de tamaño medio con un negocio por Internet pequeño o inexistente, apenas pueden optar a la eficiencia, ya que deben optar por utilizar servicios externos de consultoría (caros y de baja calidad en muchos casos) o control por parte de personal no experto, dejando la efectividad prácticamente al azar, de tal forma que no se puede prever el efecto que tengan procesos futuros.
+Ésto implica que las campañas pequeñas, ya sean de empresas pequeñas, o de empresas de tamaño medio con un negocio por Internet pequeño o inexistente, apenas pueden optar a la eficiencia, ya que deben elegir utilizar servicios externos de consultoría (caros y de baja calidad en muchos casos) o el control por parte de personal no experto, dejando la efectividad prácticamente al azar, de tal forma que no se puede prever el efecto que tengan procesos futuros.
 
 **2. Objetivo.** Este proyecto tiene como objetivo la creación de un automatismo que recopile los datos de las herramientas de Google para marketing con el fin de elaborar un informe con recomendaciones para mejorar la eficiencia de las campañas, y en un futuro aplicar las mejoras directamente sin interacción del usuario.
-La necesidad de este proyecto surge en el momento en el que se desea ofrecer un servicio de consultoría con la menor intervención humana posible a fin de reducir costes para el cliente.
-Los parámetros para los que se podría optimizar son:
 
-* Mejorar el eCommerce
-* Aumentar la calidad de los "Leads"
-* Reducir el coste efectivo de las ventas
-* Aumentar la tasa de clic (CTR)
-* Elegir las mejores "Keywords"
+Esta herramienta tendrá también carácter de *middleware*, ya que podrá interactuar directamente con otras herramientas del departamento.
+
+Los objetivos concretos a alcanzar con el desarrollo de este proyecto son:
+* Diseñar una aplicación siguiendo el patrón Modelo-Vista-Controlador.
+* Utilizar el lenguaje de programación Python, que apuesta por la legibilidad.
+* Implementar métodos de interacción directa con otras aplicaciones (*middleware*).
+* Implementar una interfaz gráfica para su uso de forma independiente.
+* Controlar la seguridad y privacidad de los datos de los usuarios 
 
 **3. Herramientas a utilizar en el desarrollo.** Para desarrollar este proyecto se utilizarán distintas herramientas, detalladas a continuación:
 
@@ -38,6 +43,12 @@ Los parámetros para los que se podría optimizar son:
 4. Pruebas y resolución de errores. Se configurará la aplicación para obtener datos de una cuenta real. 
 
 5. Diseño de la interfaz de usuario. Se creará un interfaz de usuario por si se desea utilizar la aplicación de forma independiente.
+
+El proyecto se va a dividir en 3 fases: Análisis, Diseño e Implementación
+
+1. Análisis. Adquisición de información. Se estudiarán por un lado las APIs de AdWords y Analytics para conocer de antemano las posibilidades que ofrecen, y por otro las utilidades de las herramientas de cara evaluar las necesidades de la aplicación.
+2. Diseño. Se diseñará la aplicación siguiendo el patrón Modelo-Vista-Controlador.
+3. Implementación. Se atacará de forma modular para maximizar la reutilización de código. 
 
 **5. Bibliografía y referencias.**
 	
